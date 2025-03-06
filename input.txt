@@ -1,0 +1,4 @@
+Climate change is a global issue requiring data-driven insights.
+Rising greenhouse gas emissions, deforestation, and land-use changes cause severe climate shifts.
+EarthScape Climate Agency collects climate-related data from satellites, weather stations, and sensors.
+The project aims to process, analyze, and visualize large-scale climate data using Hadoop.
